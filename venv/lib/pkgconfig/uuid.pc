@@ -1,0 +1,11 @@
+prefix=/home/rishi/Desktop/PYTHON LEARNING/python/venv
+exec_prefix=/home/rishi/Desktop/PYTHON LEARNING/python/venv
+libdir=/home/rishi/Desktop/PYTHON LEARNING/python/venv/lib
+includedir=/home/rishi/Desktop/PYTHON LEARNING/python/venv/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.32.1
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid
