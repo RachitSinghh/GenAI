@@ -1,4 +1,5 @@
 install ipykernal
+install numpy
 
 
 # different way to create Environment
