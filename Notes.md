@@ -4,7 +4,7 @@ conda activate new vevn/'
 
 # different way to create Environment
 1. python -m venv myenv
-    - myenv\Scripts\activate (to activate Environment)
+    - sourcew myenv\Scripts\activate (to activate Environment)
     - Now install anykind of libraries (eg - Pip install pandas or Pip install numpy)
     - deactivate ( to shut the Environment off)
 
